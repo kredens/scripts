@@ -1,6 +1,6 @@
 # Prerequisites:
 
-You'll need Python 3, and to pip install nltk, bs4 (BeautifulSoup), feedparser and scholarly.
+You'll need Python 3, and to pip install nltk, bs4 (BeautifulSoup), feedparser, scholarly and Biopython.
 
 # Usage:
 
